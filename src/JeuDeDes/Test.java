@@ -16,6 +16,7 @@ public class Test {
         de1.lancer();
         de2.lancer();
         de3.lancer();
+        //123456
         System.out.println(de1.toString());
         System.out.println(de2.toString());
         System.out.println(de3.toString());
